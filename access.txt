@@ -1,0 +1,12 @@
+ADMIN	
+username - admin	
+password - admin 
+MANAGER 
+username - manager
+password - manager 
+CASHIER	
+username - cashier
+password - cashier
+
+
+*PROJECT IS WORKED IN INTELLIJ
